@@ -1,4 +1,4 @@
-// Package hellopackagego contains utility functions for working with strings.
+// Package hellopackage contains utility functions for working with strings.
 package hellopackage
 
 // Reverse returns its argument string reversed rune-wise left to right.
